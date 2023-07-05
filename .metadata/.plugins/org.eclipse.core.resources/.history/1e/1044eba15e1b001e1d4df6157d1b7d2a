@@ -1,0 +1,17 @@
+package candidatura;
+
+public class ProcessoSeletivo {
+	public static void main(String[] args) {
+		analisarCandidato(1200);
+	}
+	public static void analisarCandidato(double SalarioPretendido) {
+		double salarioBase =2000.0;
+		if(salarioBase>SalarioPretendido) {
+			System.out.println("Ligar para cliente");
+		}else if(salarioBase==SalarioPretendido) {
+			System.out.println("Aguardando o resultado dos demais candidatos");
+		}else {
+			System.out.println("Aguardando seleção");
+		}
+	}
+}

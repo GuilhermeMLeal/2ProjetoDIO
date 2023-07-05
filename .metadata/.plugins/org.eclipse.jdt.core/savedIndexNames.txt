@@ -1,0 +1,4 @@
+INDEX VERSION 1.132+C:\Users\GuilhermeMartinsLeal\Desktop\DESAFIOS DIO JAVA\simulando Processo seletivo\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+1994888277.index
+1816767148.index
